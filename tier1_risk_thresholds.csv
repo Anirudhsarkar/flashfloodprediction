@@ -1,0 +1,11 @@
+,value
+rainfall_95th_pct_mm,33.203500000000005
+rainfall_90th_pct_mm,23.064000000000004
+rainfall_75th_pct_mm,10.292499999999992
+soil_moisture_95th_pct,0.7844999999999996
+soil_moisture_90th_pct,0.7366666666666667
+soil_moisture_75th_pct,0.6658333333333333
+flood_event_rainfall_percentile,99.03697996918336
+flood_event_soil_moisture_percentile,87.9558294812532
+flood_event_combined_percentile,93.49640472521828
+lookback_days,3.0
